@@ -1,0 +1,166 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.left_move{
+    width: 65%;
+    margin-right: 60px;
+    /* border: 1px solid red; */
+    
+    
+    /* padding-left: 400px; */
+}
+.shop_c{
+    color: red;
+}
+.hovering:hover{
+    color: red !important; 
+}
+.nav-item{
+    padding-left: 30px;
+}
+.navbar{
+padding: 15px 30px 10px 80px;
+
+}
+
+.main_section{
+    margin: auto;
+    padding: 40px;
+    
+    width: 95%;
+    margin-top: 80px;
+    
+    
+
+}
+
+.page_name{
+    color: gray;
+}
+.page_title{
+    color: red;
+    font-size: 30px;
+
+}
+.cut{
+    text-decoration: line-through;
+    color: lightcoral;
+}
+.new_p{
+    color: red;
+}
+.card-text{
+    font-size: 20px;
+    font-weight: bold;
+}
+.two_parts{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search>a{
+    text-decoration: none;
+    color: black;
+}
+.two_parts > .dropdown{
+    width: 150px;
+    text-align: center;
+}
+.sale{
+margin-left: 200px;
+
+}
+.card-img-top{
+    width: 250px;
+}
+.card-body .btn{
+    border-radius: 20px;
+    font-size: 20px;
+    width: 200px;
+    padding: 5px 10px 5px 10px;
+    background-color:  lightcoral;
+    color: white;
+    font-weight: bold;
+
+}
+.card{
+    display: inline-block;
+    margin: 4px;
+    padding: 4px;  
+      border: none;
+      padding-top: 50px;
+}
+.footer{
+padding: 100px 50px 0px 50px;
+
+}
+.col{
+    margin: 20px;
+}
+.social{
+    color: salmon ;
+}
+.first_col{
+    padding: 30px;
+}
+/* p{
+    margin: 0px;
+    padding: 0px;
+} */
+.col-4{
+    padding: 50px 0px 0px 0px;
+}
+.col ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+.col ul li{
+    margin-top: 10px;
+}
+.last_div{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+.page-link{
+    color: salmon;
+    margin: 5px;
+    border: 1px solid salmon;
+}
+.page-link:hover{
+    color: white;
+    background-color: salmon;
+}
+.page_number{
+    padding-left: 20px;
+
+}
+.page_number ul{
+
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.page_number ul li{
+
+    display: inline-block;
+    border: 1px solid salmon;
+    padding: 5px 10px;
+
+    color: salmon;
+}
+.page_number ul li:hover{
+
+    display: inline-block;
+    border: 1px solid salmon;
+    padding: 5px 10px;
+    color: white;
+    background-color: salmon;
+}
+.card:hover{
+    border: 1px solid salmon;
+}
